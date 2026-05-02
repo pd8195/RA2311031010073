@@ -1,0 +1,27 @@
+{
+  "name": "campus-notifications-platform",
+  "version": "1.0.0",
+  "description": "A platform for campus notifications including filtering and priority management.",
+  "main": "src/index.jsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [
+    "react",
+    "notifications",
+    "campus"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^7.14.2",
+    "vite": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^2.0.0"
+  }
+}
